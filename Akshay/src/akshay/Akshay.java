@@ -22,6 +22,9 @@ public class Akshay {
         System.out.println("Hello Sir G");
         System.out.println("Hello Sir G");
         System.out.println("Hello Sir G");
+        System.out.println("Hello Sir G");
+        System.out.println("Hello Sir G");
+        System.out.println("Hello NLT");
     }
     
 }
